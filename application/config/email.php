@@ -4,10 +4,10 @@ defined('BASEPATH') OR exit('No direct script access allowed.');
 
 $config['useragent'] = 'PHPMailer';
 $config['protocol'] = 'smtp';                   // 'mail', 'sendmail', or 'smtp'
-$config['mailpath'] = '/usr/sbin/sendmail';
-$config['smtp_host'] = 'mail.birthdays.lk';
-$config['smtp_user'] = 'support@birthdays.lk';
-$config['smtp_pass'] = 'Don@web5!';
+$config['mailpath'] = '';
+$config['smtp_host'] = '';
+$config['smtp_user'] = '';
+$config['smtp_pass'] = '';
 $config['smtp_port'] = '465';
 $config['charset'] = 'utf-8'; // Default should be utf-8 (this should be a text field) // 'UTF-8', 'ISO-8859-15', ...; NULL (preferable) means config_item('charset'), i.e. the character set of the site.
 $config['smtp_timeout'] = '30';
