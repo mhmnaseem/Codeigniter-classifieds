@@ -20,5 +20,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $config['Google_client_id'] = '';
 $config['Google_client_secret'] = '';
 $config['Google_simple_api_key'] = '';
-$config['Google_login_redirect_url'] = 'https://www.birthdays.lk/auth';
+$config['Google_login_redirect_url'] = 'baseurl/auth';
 
