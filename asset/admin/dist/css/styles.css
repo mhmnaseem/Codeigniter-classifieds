@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+.navbar-brand {
+    padding: 8px
+}
+.validate_msg {
+    margin-top: 20px;
+    border: 0px solid #FF0000;
+    font-weight: bold;
+    padding: 10px;
+    background: #EF8E89;
+    display: none;
+    margin-bottom: 20px;
+}
+.validate {
+    color: #F00;
+    padding-left: 8px;
+    font-style: italic;
+    font-weight: bold;
+}
+.form-group {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*-----------------movie boxes---------------------*/
+.movies_list{
+    margin-right:2px;
+    background: black;
+    padding: 5px;
+    min-height: 250px;
+    max-height: 250px;}
+.movie_title{
+    text-align:center;
+}
+img{
+    width:100%;}
+pre{
+    white-space:pre-line;}
+footer{
+    clear:both;
+
+    margin-top:10px;
+    padding:10px;
+    background:#A02427;}
+
+
+.btn-ml-login {
+    background-color: #40b3c9;
+    color: white;
+
+}
+
+.btn-bott-margin{
+    margin-bottom: 10px;
+}
+
+
+.img-container{
+    width: 200px;
+    height:250px;
+    overflow: hidden;
+
+}

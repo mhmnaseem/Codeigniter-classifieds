@@ -1,0 +1,48 @@
+body{ font-family: 'Arial', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#000; line-height:23px; letter-spacing: 0.02em }
+.btn-ml-login {
+    background-color: #286090;
+    color: white;
+}
+
+.validate_msg {
+
+    border: 0px solid #FF0000;
+    font-weight: bold;
+    padding: 10px;
+    background: #EF8E89;
+    display: none;
+
+}
+.validate {
+    color: #F00;
+    padding-left: 8px;
+    /* font-style: italic; */
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.page-header{
+    font-size: 20px;
+}
+.closebtn{
+    margin-bottom: 5px;
+}
+.thumbnail {
+    margin-bottom: 5px;
+}
+
+.btn-ml-cancel {
+    background-color: #fba931;
+    color: white;
+}
+.dropzone {
+    border: 2px dashed #0087F7;
+    border-radius: 5px;
+}
+
+.padding-top-10{
+    padding: 10px 0px !important;
+}
+.btn-bott-margin{
+    margin-bottom: 10px;
+}
