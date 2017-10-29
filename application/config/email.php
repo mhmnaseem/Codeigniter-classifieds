@@ -4,9 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed.');
 
 $config['useragent'] = 'PHPMailer';
 $config['protocol'] = 'smtp';                   // 'mail', 'sendmail', or 'smtp'
-$config['mailpath'] = '';
-$config['smtp_host'] = '';
-$config['smtp_user'] = '';
+$config['mailpath'] = 'abc123';
+$config['smtp_host'] = 'abc123';
+$config['smtp_user'] = 'abc13';
 $config['smtp_pass'] = '';
 $config['smtp_port'] = '465';
 $config['charset'] = 'utf-8'; // Default should be utf-8 (this should be a text field) // 'UTF-8', 'ISO-8859-15', ...; NULL (preferable) means config_item('charset'), i.e. the character set of the site.
